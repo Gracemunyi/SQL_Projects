@@ -1,7 +1,6 @@
-# Working with PostgreSQL Through Practice: Database Structure, Data Management, and Query Transformation
+# Understanding PostgreSQL The Practical Way: From Database Structure to Data Querying
 
-
-Week 3 of my Data Engineering journey focused on hands-on PostgreSQL. Here’s a simplified summary of what I learned, from building tables to transforming data with SQL queries.
+Week 3 of my Data Engineering journey focused on hands-on PostgreSQL. Here’s a simplified summary of what I learned, from building database structures, data management, to transforming the data with SQL queries.
 
 **Database structure (Schema / structure design)**
 - `Creating tables` using CREATE TABLE
